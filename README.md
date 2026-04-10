@@ -1,0 +1,2 @@
+# Scale_Numeric_Visualizer_tool
+音楽のスケールを表示するツールです。
